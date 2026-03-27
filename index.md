@@ -48,9 +48,26 @@ Lion's Notes uses the following third-party services:
 
 ---
 
-## 5. Data Deletion
+## 5. Account & Data Deletion {#account-deletion}
 
-You can request deletion of your account and all associated data at any time by contacting us at the email below. We will process your request within 30 days.
+You can delete your account and all associated data at any time. Here is how:
+
+**Option 1 — In-app deletion (coming soon):**
+Go to **Settings → Account → Delete Account** in the Lion's Notes app.
+
+**Option 2 — Email request:**
+Send an email to **chaosdaddy84@gmail.com** with the subject line: `Delete My Account — Lion's Notes`
+
+Include the email address associated with your account. We will process your request within **30 days**.
+
+**What gets deleted:**
+- Your account and login credentials
+- All tasks, checklists, habits, and notes
+- App preferences and settings
+- Any shared session history
+
+**What may be retained:**
+- Anonymized, aggregated usage statistics (no personal data)
 
 ---
 
